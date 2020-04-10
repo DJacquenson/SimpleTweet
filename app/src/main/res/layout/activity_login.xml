@@ -9,11 +9,16 @@
     tools:context=".LoginActivity" >
 
     <Button
-        android:layout_width="match_parent"
+        android:layout_width="197dp"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_margin="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="7dp"
+        android:background="#03c2fc"
         android:onClick="loginToRest"
-        android:text="@string/login_label" />
+        android:text="@string/login_label"
+        android:textColorLink="#9fc" />
 
 </RelativeLayout>

@@ -1,7 +1,5 @@
 package com.codepath.apps.restclienttemplate.models;
 
-import androidx.annotation.NonNull;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
