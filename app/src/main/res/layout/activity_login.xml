@@ -22,13 +22,15 @@
         android:text="@string/login_label"
         android:textColorLink="#99F0FF" />
 
-    <ImageView
-        android:id="@+id/tvImag"
-        android:layout_width="88dp"
-        android:layout_height="79dp"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="21dp"
-        android:layout_marginTop="45dp"
-        app:srcCompat="@drawable/twitter" />
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/profile_image"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@drawable/twitter"
+        app:civ_border_width="2dp"
+        android:layout_marginStart="122dp"
+        android:layout_marginTop="47dp"
+        app:civ_border_color="#FF000000"/>
 
 </RelativeLayout>
