@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#7FC3FF"
     tools:context=".TimelineActivity">
 
     <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
@@ -21,7 +22,8 @@
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:layout_marginStart="0dp"
-            android:layout_marginTop="0dp" />
+            android:layout_marginTop="0dp"
+            android:outlineAmbientShadowColor="#FFFFFF"/>
 
     </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
 </RelativeLayout>
