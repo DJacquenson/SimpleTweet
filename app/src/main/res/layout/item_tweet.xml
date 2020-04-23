@@ -56,7 +56,6 @@
         android:layout_below="@+id/connect_help"
         android:layout_width="match_parent"
         android:layout_height="1dp"
-        android:layout_marginStart="85.5dp"
-        android:background="#8A8686"
+        android:background="#B5B0B0"
         tools:ignore="UnknownId" />
 </RelativeLayout>
