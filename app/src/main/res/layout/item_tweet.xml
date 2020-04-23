@@ -17,6 +17,7 @@
         android:layout_toEndOf="@+id/ivProfileImage"
         tools:text="This is my app"
         android:autoLink="all"
+        android:textColor="#000"
         android:linksClickable="true"/>
 
 
@@ -45,4 +46,17 @@
         tools:text="This is my first tweet!!"
         android:autoLink="all"
         android:linksClickable="true"/>
+
+
+    <TextView
+        android:id="@+id/line"
+        style="?android:attr/listSeparatorTextViewStyle"
+        android:paddingTop="5dip"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/connect_help"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginStart="85.5dp"
+        android:background="#8A8686"
+        tools:ignore="UnknownId" />
 </RelativeLayout>
