@@ -8,19 +8,19 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ X ] User can **sign in to Twitter** using OAuth login
-- [ X ]	User can **view tweets from their home timeline**
-  - [ X ] User is displayed the username, name, and body for each tweet
-  - [ X ] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
-- [ X ] User can refresh tweets timeline by pulling down to refresh
+- [x] User can **sign in to Twitter** using OAuth login
+- [x]	User can **view tweets from their home timeline**
+  - [x] User is displayed the username, name, and body for each tweet
+  - [x] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
+- [x] User can refresh tweets timeline by pulling down to refresh
 
 The following **optional** features are implemented:
 
-- [ X ] User can view more tweets as they scroll with infinite pagination
-- [ X ] User can tap a tweet to display a "detailed" view of that tweet
-- [ X ] User can open the twitter app offline and see last loaded tweets
-- [ X ] On the Twitter timeline, leverage the CoordinatorLayout to apply scrolling behavior that hides / shows the toolbar.
-- [ X ] Replace all icon drawables and other static image assets with [vector drawables](http://guides.codepath.org/android/Drawables#vector-drawables) where appropriate.
+- [x] User can view more tweets as they scroll with infinite pagination
+- [x] User can tap a tweet to display a "detailed" view of that tweet
+- [x] User can open the twitter app offline and see last loaded tweets
+- [x] On the Twitter timeline, leverage the CoordinatorLayout to apply scrolling behavior that hides / shows the toolbar.
+- [] Replace all icon drawables and other static image assets with [vector drawables](http://guides.codepath.org/android/Drawables#vector-drawables) where appropriate.
 - [] User can see embedded image media within the tweet detail view
 - [ ] User sees an **indeterminate progress indicator** when any background or network task is happening
 - [] User can **see embedded image media within a tweet** on list or detail view.
@@ -36,8 +36,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Walkthrough.gif' title='Video 
-Walkthrough' width='250' alt='Video Walkthrough' />
+<img src="walkthrough.gif" title='Video 
+walkthrough' width='250' alt='Video walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
