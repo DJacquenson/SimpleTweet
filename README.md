@@ -21,22 +21,23 @@ The following **optional** features are implemented:
 - [ X ] User can open the twitter app offline and see last loaded tweets
 - [ X ] On the Twitter timeline, leverage the CoordinatorLayout to apply scrolling behavior that hides / shows the toolbar.
 - [ X ] Replace all icon drawables and other static image assets with [vector drawables](http://guides.codepath.org/android/Drawables#vector-drawables) where appropriate.
-- [ X ] User can see embedded image media within the tweet detail view
+- [] User can see embedded image media within the tweet detail view
 - [ ] User sees an **indeterminate progress indicator** when any background or network task is happening
-- [ X ] User can **see embedded image media within a tweet** on list or detail view.
+- [] User can **see embedded image media within a tweet** on list or detail view.
 - [ ] User can **click a link within a tweet body** on tweet details view. The click will launch the web browser with relevant page opened.
-- [ X ] User can view following / followers list through any profile they view.
-- [ X ] User is using **"Twitter branded" colors and styles**
+- [] User can view following / followers list through any profile they view.
+- [] User is using **"Twitter branded" colors and styles**
 
 The following **additional** features are implemented:
 
-- [ X ] List anything else that you can get done to improve the app functionality!
+- [] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://https://i.imgur.com/zUOcff5.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Walkthrough.gif' title='Video 
+Walkthrough' width='250' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
